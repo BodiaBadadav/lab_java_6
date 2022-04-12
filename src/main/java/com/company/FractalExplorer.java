@@ -3,12 +3,8 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.geom.Rectangle2D;
 import java.awt.event.*;
-import javax.swing.JFileChooser.*;
 import javax.swing.filechooser.*;
-import javax.imageio.ImageIO.*;
 import java.awt.image.*;
-import java.io.File;
-import java.io.FilenameFilter;
 /*
 Этот класс позволит исследовать
 различные области фрактала, путем его создания, отображения через
